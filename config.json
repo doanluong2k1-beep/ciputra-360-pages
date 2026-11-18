@@ -238,13 +238,13 @@
   "units": {
     "phoi_canh": [
       {
-        "id": "u_1794977829145",
-        "pitch": -54.35,
-        "yaw": -70.24,
-        "code": "M.LK2-01",
-        "price": "100TY",
+        "id": "u_1794977853361",
+        "pitch": -53.94,
+        "yaw": -70.47,
+        "code": "A",
+        "price": "A",
         "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
-        "desc": ""
+        "desc": "A"
       }
     ],
     "hien_trang": [],
