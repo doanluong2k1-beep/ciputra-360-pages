@@ -238,23 +238,16 @@
   "units": {
     "phoi_canh": [
       {
-        "id": "u_mlk201",
-        "pitch": -49.65,
-        "yaw": -26.21,
+        "id": "u_1794977459768",
+        "pitch": -54.56,
+        "yaw": -70.48,
         "code": "M.LK2-01",
-        "price": "Liên hệ",
+        "price": "500 000",
         "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
-        "desc": "THE ELTON SERIES - THE ROYAL (CT07)\nLoại căn: Căn góc\nDiện tích đất: 144.9 m² | Diện tích sàn: 513.3 m²\nMặt tiền: 9m | Hướng: Tây Nam (lệch Tây)\nView: Bể bơi - Clubhouse - Công viên\nĐường trước nhà: 17.5m (vỉa hè: 10m)"
-      },
-      {
-        "id": "u_1794977080176",
-        "pitch": -54.27,
-        "yaw": -70.4,
-        "code": "M.LK2-01",
-        "price": "Liên hệ",
-        "image": "https://drive.google.com/file/d/19DNQ3XKtK6U9wLNS77x_i4RnAsDpro30/view?usp=drive_link",
         "desc": ""
       }
-    ]
+    ],
+    "hien_trang": [],
+    "mat_bang_q": []
   }
 }
