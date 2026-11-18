@@ -230,32 +230,19 @@
         "pitch": -1.75,
         "yaw": -94.36,
         "text": "VEC"
+      },
+      {
+        "id": "hs_1794994835179",
+        "pitch": -26.8,
+        "yaw": 56.09,
+        "text": "Xuân Đỉnh"
       }
     ],
     "hien_trang": [],
     "mat_bang_q": []
   },
   "units": {
-    "phoi_canh": [
-      {
-        "id": "u_1794993263949",
-        "pitch": -49.12,
-        "yaw": 2.84,
-        "code": "lk2",
-        "price": "45",
-        "image": "https://drive.google.com/file/d/19DNQ3XKtK6U9wLNS77x_i4RnAsDpro30/view?usp=drive_link",
-        "desc": "xzczxfdav"
-      },
-      {
-        "id": "u_1794993379341",
-        "pitch": -64.88,
-        "yaw": 173.41,
-        "code": "lk 2",
-        "price": "2",
-        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
-        "desc": "hướng"
-      }
-    ],
+    "phoi_canh": [],
     "hien_trang": [],
     "mat_bang_q": []
   }
