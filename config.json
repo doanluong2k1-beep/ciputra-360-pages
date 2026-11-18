@@ -230,23 +230,19 @@
         "pitch": -1.75,
         "yaw": -94.36,
         "text": "VEC"
+      },
+      {
+        "id": "hs_1795005754303",
+        "pitch": -25.8,
+        "yaw": 56.86,
+        "text": "Ga Xuân Đỉnh"
       }
     ],
     "hien_trang": [],
     "mat_bang_q": []
   },
   "units": {
-    "phoi_canh": [
-      {
-        "id": "u_1795005074354",
-        "pitch": -49.43,
-        "yaw": 51.48,
-        "code": "sjd",
-        "price": "Liên hệ",
-        "image": "da",
-        "desc": "adsf"
-      }
-    ],
+    "phoi_canh": [],
     "hien_trang": [],
     "mat_bang_q": []
   }
