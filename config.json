@@ -4,10 +4,232 @@
   "hotspots": {
     "phoi_canh": [
       {
-        "id": "hs_1",
+        "id": "hs_1794967152983",
         "pitch": -8.57,
         "yaw": -119.37,
         "text": "Cầu Nhật Tân"
+      },
+      {
+        "id": "hs_1794967166855",
+        "pitch": -13.81,
+        "yaw": -169.23,
+        "text": "Sông Hồng"
+      },
+      {
+        "id": "hs_1794967192799",
+        "pitch": -9.76,
+        "yaw": 142.02,
+        "text": "Cầu Thăng Long"
+      },
+      {
+        "id": "hs_1794967509735",
+        "pitch": -15.13,
+        "yaw": 116.5,
+        "text": "IA 20"
+      },
+      {
+        "id": "hs_1794968021610",
+        "pitch": -57.21,
+        "yaw": 160.39,
+        "text": "Khu P"
+      },
+      {
+        "id": "hs_1794968034960",
+        "pitch": -55.28,
+        "yaw": 96.98,
+        "text": "Q2"
+      },
+      {
+        "id": "hs_1794968320000",
+        "pitch": -25.68,
+        "yaw": -124.27,
+        "text": "SS Golden River"
+      },
+      {
+        "id": "hs_1794968367981",
+        "pitch": -16.69,
+        "yaw": -105.93,
+        "text": "SS Riverside"
+      },
+      {
+        "id": "hs_1794968417350",
+        "pitch": -34.94,
+        "yaw": -153.82,
+        "text": "Noble Crystal Tây Hồ"
+      },
+      {
+        "id": "hs_1794968477055",
+        "pitch": -21.55,
+        "yaw": 121,
+        "text": "SS City"
+      },
+      {
+        "id": "hs_1794968496314",
+        "pitch": -11.17,
+        "yaw": -34.8,
+        "text": "Hồ Tây"
+      },
+      {
+        "id": "hs_1794968510063",
+        "pitch": -11.89,
+        "yaw": 2.64,
+        "text": "KĐT Starlake"
+      },
+      {
+        "id": "hs_1794968643167",
+        "pitch": -39.81,
+        "yaw": 124.1,
+        "text": "SS HELIOS"
+      },
+      {
+        "id": "hs_1794968678334",
+        "pitch": -46.24,
+        "yaw": 161.83,
+        "text": "SS wonder Villas"
+      },
+      {
+        "id": "hs_1794968716951",
+        "pitch": -23.88,
+        "yaw": 85.33,
+        "text": "SS KS FINACE HÀ NỘI"
+      },
+      {
+        "id": "hs_1794968766498",
+        "pitch": -24.92,
+        "yaw": 133.05,
+        "text": "SS River Park"
+      },
+      {
+        "id": "hs_1794968801791",
+        "pitch": -38.18,
+        "yaw": 176.58,
+        "text": "NƠXH X1"
+      },
+      {
+        "id": "hs_1794968820237",
+        "pitch": -26.19,
+        "yaw": 110.33,
+        "text": "Astor 1"
+      },
+      {
+        "id": "hs_1794968833757",
+        "pitch": -23.19,
+        "yaw": 110.99,
+        "text": "IA 25"
+      },
+      {
+        "id": "hs_1794968851840",
+        "pitch": -29.18,
+        "yaw": 95.93,
+        "text": "Ciputra Clup"
+      },
+      {
+        "id": "hs_1794968890173",
+        "pitch": -61.91,
+        "yaw": -66.9,
+        "text": "CT 07"
+      },
+      {
+        "id": "hs_1794968903996",
+        "pitch": -49.65,
+        "yaw": -26.21,
+        "text": "BT 8-9"
+      },
+      {
+        "id": "hs_1794968935414",
+        "pitch": -55.4,
+        "yaw": -135.13,
+        "text": "Khu K"
+      },
+      {
+        "id": "hs_1794968955633",
+        "pitch": -37.24,
+        "yaw": -105.07,
+        "text": "GIA 22"
+      },
+      {
+        "id": "hs_1794968967661",
+        "pitch": -39.98,
+        "yaw": -88.55,
+        "text": "GIA 55"
+      },
+      {
+        "id": "hs_1794968990977",
+        "pitch": -20.88,
+        "yaw": -110.04,
+        "text": "CC Lạc Hồng"
+      },
+      {
+        "id": "hs_1794969030947",
+        "pitch": -20.52,
+        "yaw": -65.96,
+        "text": "Lotte Mall Tây Hồ"
+      },
+      {
+        "id": "hs_1794969057809",
+        "pitch": -24.67,
+        "yaw": -52.07,
+        "text": "Khu G"
+      },
+      {
+        "id": "hs_1794969070548",
+        "pitch": -25.68,
+        "yaw": -39.91,
+        "text": "Khu D"
+      },
+      {
+        "id": "hs_1794969119591",
+        "pitch": -31.39,
+        "yaw": -48.62,
+        "text": "Trường LHQ Unis"
+      },
+      {
+        "id": "hs_1794969189306",
+        "pitch": -39.84,
+        "yaw": -16.31,
+        "text": "Trường Quốc tế Singapore (SIS)"
+      },
+      {
+        "id": "hs_1794969253919",
+        "pitch": -32.68,
+        "yaw": -15.13,
+        "text": "Trường Hanoi Academy"
+      },
+      {
+        "id": "hs_1794969275813",
+        "pitch": -32.07,
+        "yaw": -2.88,
+        "text": "E4"
+      },
+      {
+        "id": "hs_1794969282870",
+        "pitch": -34.38,
+        "yaw": 0.05,
+        "text": "E5"
+      },
+      {
+        "id": "hs_1794969309461",
+        "pitch": -60.62,
+        "yaw": 46.37,
+        "text": "Khu Q"
+      },
+      {
+        "id": "hs_1794969358698",
+        "pitch": -26.12,
+        "yaw": 90.63,
+        "text": "TheLink2"
+      },
+      {
+        "id": "hs_1794969370981",
+        "pitch": -26.81,
+        "yaw": 86,
+        "text": "Thelink1"
+      },
+      {
+        "id": "hs_1794973746705",
+        "pitch": -1.75,
+        "yaw": -94.36,
+        "text": "VEC"
       }
     ],
     "hien_trang": [],
@@ -16,21 +238,12 @@
   "units": {
     "phoi_canh": [
       {
-        "id": "u_1",
-        "pitch": -55.28,
-        "yaw": 96.98,
-        "code": "Q2-08",
-        "price": "42 Tỷ",
-        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
-        "desc": "Biệt thự đơn lập diện tích 300m2, thiết kế hiện đại 3 tầng."
-      },
-      {
-        "id": "u_1794975522548",
-        "pitch": -54.16,
-        "yaw": -70.49,
+        "id": "u_1794976086596",
+        "pitch": -54,
+        "yaw": -70.65,
         "code": "M.LK2-01",
-        "price": "77 TỶ",
-        "image": "https://drive.google.com/file/d/19DNQ3XKtK6U9wLNS77x_i4RnAsDpro30/view?usp=sharing",
+        "price": "Liên hệ",
+        "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600",
         "desc": "THE ELTON SERIES\nM.LK2-01\nTHE ROYAL (CT07)\nLoại căn: Căn góc\nDiện tích đất: 144.9 m²\nDiện tích sàn xây dựng: 513.3 m²\nMặt tiền: 9 m\nHướng cửa chính: Tây Nam (lệch Tây)\nView chính: Bể bơi - Clubhouse - Công viên\nKích thước đường trước nhà: 17.5 m (vỉa hè: 10m)"
       }
     ]
