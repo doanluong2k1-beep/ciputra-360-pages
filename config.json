@@ -2,7 +2,14 @@
   "phoneDisplay": "0963950201",
   "phoneRaw": "0963950201",
   "hotspots": {
-    "phoi_canh": [],
+    "phoi_canh": [
+      {
+        "id": "hs_1795004638410",
+        "pitch": -62.56,
+        "yaw": -65.32,
+        "text": "CT-07"
+      }
+    ],
     "hien_trang": [],
     "mat_bang_q": []
   },
