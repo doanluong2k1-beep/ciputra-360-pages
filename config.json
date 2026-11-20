@@ -52,12 +52,6 @@
         "text": "Hồ Tây"
       },
       {
-        "id": "hs_12",
-        "pitch": -11.89,
-        "yaw": 2.64,
-        "text": "KĐT Starlake"
-      },
-      {
         "id": "hs_13",
         "pitch": -39.81,
         "yaw": 124.1,
@@ -230,6 +224,12 @@
         "pitch": -7.64,
         "yaw": -122.45,
         "text": "Cầu Nhật Tân"
+      },
+      {
+        "id": "hs_1795169141185",
+        "pitch": -8.9,
+        "yaw": 1.92,
+        "text": "KĐT Starlake 🏘"
       }
     ],
     "hien_trang": [],
