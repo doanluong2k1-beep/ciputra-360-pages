@@ -4,18 +4,6 @@
   "hotspots": {
     "phoi_canh": [
       {
-        "id": "hs_1",
-        "pitch": -8.57,
-        "yaw": -119.37,
-        "text": "Cầu Nhật Tân"
-      },
-      {
-        "id": "hs_2",
-        "pitch": -13.81,
-        "yaw": -169.23,
-        "text": "Sông Hồng"
-      },
-      {
         "id": "hs_3",
         "pitch": -9.76,
         "yaw": 142.02,
@@ -230,6 +218,18 @@
         "pitch": -39.7,
         "yaw": 14.31,
         "text": "Bệnh viện"
+      },
+      {
+        "id": "hs_1795168984836",
+        "pitch": -0.76,
+        "yaw": 177.44,
+        "text": "Sân Bay Quốc Tế Nội Bài ✈️"
+      },
+      {
+        "id": "hs_1795169066938",
+        "pitch": -7.64,
+        "yaw": -122.45,
+        "text": "Cầu Nhật Tân"
       }
     ],
     "hien_trang": [],
