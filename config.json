@@ -214,16 +214,46 @@
         "text": "VEC"
       },
       {
-        "id": "hs_1795006079425",
-        "pitch": -26.26,
-        "yaw": 57.55,
-        "text": "Ga Depot Xuân Đỉnh"
-      },
-      {
         "id": "hs_1795168132390",
         "pitch": -60.03,
         "yaw": 168.51,
         "text": "Khu P"
+      },
+      {
+        "id": "hs_1795168396325",
+        "pitch": -24.56,
+        "yaw": 53.82,
+        "text": "Ga depot Xuân Đỉnh"
+      },
+      {
+        "id": "hs_1795168422824",
+        "pitch": -31.81,
+        "yaw": 65.65,
+        "text": "Khu E"
+      },
+      {
+        "id": "hs_1795168464831",
+        "pitch": -25.97,
+        "yaw": 100.72,
+        "text": "Thelink3"
+      },
+      {
+        "id": "hs_1795168481811",
+        "pitch": -26.58,
+        "yaw": 103.71,
+        "text": "Thelink4"
+      },
+      {
+        "id": "hs_1795168492100",
+        "pitch": -26.74,
+        "yaw": 107.87,
+        "text": "Thelink5"
+      },
+      {
+        "id": "hs_1795168550517",
+        "pitch": -19.43,
+        "yaw": 107.92,
+        "text": "Tháp Sun Group"
       }
     ],
     "hien_trang": [],
