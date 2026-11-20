@@ -154,24 +154,6 @@
         "text": "Khu D"
       },
       {
-        "id": "hs_30",
-        "pitch": -31.39,
-        "yaw": -48.62,
-        "text": "Trường LHQ Unis"
-      },
-      {
-        "id": "hs_31",
-        "pitch": -39.84,
-        "yaw": -16.31,
-        "text": "Trường Quốc tế Singapore (SIS)"
-      },
-      {
-        "id": "hs_32",
-        "pitch": -32.68,
-        "yaw": -15.13,
-        "text": "Trường Hanoi Academy"
-      },
-      {
         "id": "hs_35",
         "pitch": -60.62,
         "yaw": 46.37,
@@ -230,6 +212,24 @@
         "pitch": -24.15,
         "yaw": 56.75,
         "text": "Ga Depot Xuân Đỉnh 🚉"
+      },
+      {
+        "id": "hs_1795169388356",
+        "pitch": -33.27,
+        "yaw": -47.38,
+        "text": "🏫 LHQ Unis"
+      },
+      {
+        "id": "hs_1795169451745",
+        "pitch": -42.08,
+        "yaw": -14,
+        "text": "🏫 Singgapo(SIS)"
+      },
+      {
+        "id": "hs_1795169486971",
+        "pitch": -33.49,
+        "yaw": -13.62,
+        "text": "🏫 Hà Nội Academi"
       }
     ],
     "hien_trang": [],
