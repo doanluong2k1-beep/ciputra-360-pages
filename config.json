@@ -190,12 +190,6 @@
         "text": "Khu P"
       },
       {
-        "id": "hs_1795168396325",
-        "pitch": -24.56,
-        "yaw": 53.82,
-        "text": "Ga depot Xuân Đỉnh"
-      },
-      {
         "id": "hs_1795168422824",
         "pitch": -31.81,
         "yaw": 65.65,
@@ -230,6 +224,12 @@
         "pitch": -8.9,
         "yaw": 1.92,
         "text": "KĐT Starlake 🏘"
+      },
+      {
+        "id": "hs_1795169314097",
+        "pitch": -24.15,
+        "yaw": 56.75,
+        "text": "Ga Depot Xuân Đỉnh 🚉"
       }
     ],
     "hien_trang": [],
